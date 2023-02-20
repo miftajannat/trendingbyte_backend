@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_book_books",
+  "info": {
+    "displayName": "Book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "BookName": {
+      "type": "string"
+    },
+    "AuthorName": {
+      "type": "string"
+    },
+    "BookDescription": {
+      "type": "text"
+    },
+    "BookImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_our_tags_our_tags",
+  "info": {
+    "displayName": "OurTags"
+  },
+  "options": {},
+  "attributes": {
+    "Tags": {
+      "displayName": "Tags",
+      "type": "component",
+      "repeatable": true,
+      "component": "tags.tags"
+    }
+  }
+}

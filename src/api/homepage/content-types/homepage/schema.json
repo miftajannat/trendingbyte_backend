@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "Homepage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "LatestBookSummaries": {
+      "displayName": "LatestBookSummaries",
+      "type": "component",
+      "repeatable": false,
+      "component": "latest-book-summaries.latest-book-summaries"
+    },
+    "OurServices": {
+      "displayName": "OurServices",
+      "type": "component",
+      "repeatable": false,
+      "component": "our-services.our-services"
+    },
+    "OurPricing": {
+      "type": "component",
+      "repeatable": false,
+      "component": "our-pricing.our-pricing"
+    },
+    "OurProjects": {
+      "displayName": "OurProjects",
+      "type": "component",
+      "repeatable": false,
+      "component": "our-projects.our-projects"
+    },
+    "OurTags": {
+      "displayName": "OurTags",
+      "type": "component",
+      "repeatable": false,
+      "component": "our-tags.our-tags"
+    }
+  }
+}

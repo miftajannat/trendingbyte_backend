@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_our_projects_our_projects",
+  "info": {
+    "displayName": "OurProjects"
+  },
+  "options": {},
+  "attributes": {
+    "Project": {
+      "displayName": "Project",
+      "type": "component",
+      "repeatable": true,
+      "component": "project.project"
+    }
+  }
+}

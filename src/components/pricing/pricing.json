@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_pricing_pricings",
+  "info": {
+    "displayName": "Pricing"
+  },
+  "options": {},
+  "attributes": {
+    "PricingType": {
+      "type": "string"
+    },
+    "PricingDescription1": {
+      "type": "string"
+    },
+    "PricingDescription2": {
+      "type": "text"
+    },
+    "Feature1": {
+      "type": "string"
+    },
+    "Feature2": {
+      "type": "string"
+    },
+    "Feature3": {
+      "type": "string"
+    },
+    "Feature4": {
+      "type": "string"
+    },
+    "Feature5": {
+      "type": "string"
+    },
+    "Feature6": {
+      "type": "string"
+    }
+  }
+}

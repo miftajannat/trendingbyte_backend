@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_project_projects",
+  "info": {
+    "displayName": "Project"
+  },
+  "options": {},
+  "attributes": {
+    "ProjectTitle": {
+      "type": "string"
+    },
+    "ProjectDescription": {
+      "type": "text"
+    },
+    "ProjectImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

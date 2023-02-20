@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_latest_book_summaries_latest_book_summaries",
+  "info": {
+    "displayName": "LatestBookSummaries"
+  },
+  "options": {},
+  "attributes": {
+    "Book": {
+      "displayName": "Book",
+      "type": "component",
+      "repeatable": true,
+      "component": "book.book"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_tags_tags",
+  "info": {
+    "displayName": "Tags"
+  },
+  "options": {},
+  "attributes": {
+    "TagTitle": {
+      "type": "string"
+    },
+    "TagImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "TagURL": {
+      "type": "string"
+    }
+  }
+}
