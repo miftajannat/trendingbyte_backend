@@ -11,12 +11,6 @@
       "type": "component",
       "repeatable": true,
       "component": "tags.tags"
-    },
-    "OurTestimonials": {
-      "displayName": "OurTestimonials",
-      "type": "component",
-      "repeatable": false,
-      "component": "our-testimonials.our-testimonials"
     }
   }
 }

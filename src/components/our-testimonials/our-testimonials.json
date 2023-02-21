@@ -4,5 +4,12 @@
     "displayName": "OurTestimonials"
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "Testimonial": {
+      "displayName": "Testimonial",
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonial.testimonial"
+    }
+  }
 }

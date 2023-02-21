@@ -12,12 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "LatestBookSummaries": {
-      "displayName": "LatestBookSummaries",
-      "type": "component",
-      "repeatable": false,
-      "component": "latest-book-summaries.latest-book-summaries"
-    },
     "OurServices": {
       "displayName": "OurServices",
       "type": "component",
@@ -40,6 +34,18 @@
       "type": "component",
       "repeatable": false,
       "component": "our-tags.our-tags"
+    },
+    "OurTestimonials": {
+      "displayName": "OurTestimonials",
+      "type": "component",
+      "repeatable": false,
+      "component": "our-testimonials.our-testimonials"
+    },
+    "HeroSection": {
+      "displayName": "HeroSection",
+      "type": "component",
+      "repeatable": false,
+      "component": "hero-section.hero-section"
     }
   }
 }
